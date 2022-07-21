@@ -1,13 +1,13 @@
 
-## Hi there. I'm Enes...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there. I'm Oğuz...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - :house: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 
 
 ## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enesyesilkutuk/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:enesyesilkutuk@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesyesilkutuk" alt="enesyesilkutuk" /> </p>
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuz-olgun-a002ba78/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:oguzolgun44@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzolgun" alt="oguzolgun" /> </p>
 
 ## 💻 Tech Stack
 
