@@ -20,26 +20,7 @@
                                                                                                                                     
  
                                                                                                
-## :star2: My Projects: 
-## With React
-- <a href="https://enesyesilkutuk.github.io/react-tour-project/" target="_blank" >Tour-Project</a>
-- <a href="https://enesyesilkutuk.github.io/react-language-cards-project/" target="_blank" >Language-Card-Project</a>
-- <a href="https://enesyesilkutuk.github.io/react-task-tracker-project/" target="_blank" >Task-Tracker-Project</a>
-- <a href="https://recipe-app-enes.netlify.app/" target="_blank" >Recipe-App--Project</a>
-- <a href="https://github.com/enesyesilkutuk/react-firebase-movie-app" target="_blank" >Firebase-Movie-App</a>
-- <a href="https://react-fire-contact-app.netlify.app/" target="_blank" >Fire-Contact-App</a>
-- <a href="https://react-blog-app-enes.netlify.app/" target="_blank" >ReactBlog-App</a> 
-## Without React
- 
- - <a href="https://enesyesilkutuk.github.io/Netflix-Survey-Form/" target="_blank" >Netflix-Survey-Form</a>
- - <a href="https://enesyesilkutuk.github.io/Score-Keeper-Project/" target="_blank" >Score-Keeper-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Guess-Number-Project/" target="_blank" >Guess-Number-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Lottery-Project/" target="_blank" >Lottery-Project</a>
- - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
- - <a href="https://enesyesilkutuk.github.io/IOS-Calculator/" target="_blank" >IOS-Calculator</a>
- - <a href="https://enesyesilkutuk.github.io/Checkout-Page-Project/" target="_blank" >Checkout-Page-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Movie-Seat-App/" target="_blank" >Movie-Seat-App-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Weather-App-Project/" target="_blank" >Weather-App-Project</a>
+
 
 ## :fire: My Stats :
                                                                         
